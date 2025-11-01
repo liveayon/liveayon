@@ -29,4 +29,9 @@ I’m a passionate developer from Bangladesh who loves building web scrapers and
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=liveayon&theme=tokyonight&hide_border=true)  
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=liveayon&no-frame=true&theme=tokyonight) 
+![Trophies](https://github-profile-trophy.ver
+## 🎓 Certifications  
+![Airtable Certified](https://img.shields.io/badge/Airtable-Certified-blue?style=for-the-badge&logo=airtable)  
+![Softr Certified](https://img.shields.io/badge/Softr-Certified-yellow?style=for-the-badge&logo=softr)  
+![Make.com Certified](https://img.shields.io/badge/Make.com-Certified-purple?style=for-the-badge&logo=make.com)  
+![Scrum Certified Product Owner](https://img.shields.io/badge/Scrum-Product%20Owner-red?style=for-the-badge&logo=scrumalliance)cel.app/?username=liveayon&no-frame=true&theme=tokyonight) 
