@@ -1,5 +1,4 @@
 # Hi there, I'm Liveayon 👋  
-
 I’m a passionate developer from Bangladesh who loves building web scrapers and automation tools. You can often find me tinkering with Apify actors and exploring new ways to extract structured data from the web.  
 
 ## 🚀 About Me  
@@ -11,17 +10,18 @@ I’m a passionate developer from Bangladesh who loves building web scrapers and
 
 ## 🛠️ Languages and Tools  
 <p align="left">  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />    
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" />   
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />  
 </p>  
 
 ## 📊 GitHub Stats  
 ![Liveayon's GitHub stats](https://github-readme-stats.vercel.app/api?username=liveayon&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liveayon&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liveayon&layout=compact&theme=tokyonight)  
+
 ## 🗓️ Contribution Calendar  
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=liveayon&theme=tokyo-night)  
 
@@ -29,9 +29,10 @@ I’m a passionate developer from Bangladesh who loves building web scrapers and
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=liveayon&theme=tokyonight&hide_border=true)  
 
 ## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.ver
+![Trophies](https://github-profile-trophy.vercel.app/?username=liveayon&no-frame=true&theme=tokyonight)  
+
 ## 🎓 Certifications  
 ![Airtable Certified](https://img.shields.io/badge/Airtable-Certified-blue?style=for-the-badge&logo=airtable)  
 ![Softr Certified](https://img.shields.io/badge/Softr-Certified-yellow?style=for-the-badge&logo=softr)  
 ![Make.com Certified](https://img.shields.io/badge/Make.com-Certified-purple?style=for-the-badge&logo=make.com)  
-![Scrum Certified Product Owner](https://img.shields.io/badge/Scrum-Product%20Owner-red?style=for-the-badge&logo=scrumalliance)
+![Scrum Certified Product Owner](https://img.shields.io/badge/Scrum-Product%20Owner-red?style=for-the-badge&logo=scrumalliance) 
