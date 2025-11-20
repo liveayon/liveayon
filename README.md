@@ -32,7 +32,4 @@ I’m a passionate developer from Bangladesh who loves building web scrapers and
 ![Trophies](https://github-profile-trophy.vercel.app/?username=liveayon&no-frame=true&theme=tokyonight)  
 
 ## 🎓 Certifications  
-![Airtable Certified](https://img.shields.io/badge/Airtable-Certified-blue?style=for-the-badge&logo=airtable)  
-![Softr Certified](https://img.shields.io/badge/Softr-Certified-yellow?style=for-the-badge&logo=softr)  
-![Make.com Certified](https://img.shields.io/badge/Make.com-Certified-purple?style=for-the-badge&logo=make.com)  
-![Scrum Certified Product Owner](https://img.shields.io/badge/Scrum-Product%20Owner-red?style=for-the-badge&logo=scrumalliance) 
+![Airtable Certified](https://img.shields.io/badge/Airtable-Certified-blue?style=for-the-badge&logo=airtable&logoColor=white) ![Softr Certified](https://img.shields.io/badge/Softr-Certified-yellow?style=for-the-badge&logo=softr&logoColor=white) ![Make.com Certified](https://img.shields.io/badge/Make.com-Certified-purple?style=for-the-badge&logo=make&logoColor=white) ![Scrum Certified Product Owner](https://img.shields.io/badge/Scrum-Product%20Owner-red?style=for-the-badge&logo=scrumalliance&logoColor=white)
