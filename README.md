@@ -23,13 +23,7 @@ I’m a passionate developer from Bangladesh who loves building web scrapers and
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liveayon&layout=compact&theme=tokyonight)  
 
 ## 🗓️ Contribution Calendar  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=liveayon&theme=tokyo-night)  
-
-## 📈 Streak Stats  
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=liveayon&theme=tokyonight&hide_border=true)  
-
-## 🏆 GitHub Trophies  
-![Trophies](https://github-profile-trophy.vercel.app/?username=liveayon&no-frame=true&theme=tokyonight)  
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=liveayon&theme=tokyo-night)
 
 ## 🎓 Certifications  
 ![Airtable Certified](https://img.shields.io/badge/Airtable-Certified-blue?style=for-the-badge&logo=airtable&logoColor=white) ![Softr Certified](https://img.shields.io/badge/Softr-Certified-yellow?style=for-the-badge&logo=softr&logoColor=white) ![Make.com Certified](https://img.shields.io/badge/Make.com-Certified-purple?style=for-the-badge&logo=make&logoColor=white) ![Scrum Certified Product Owner](https://img.shields.io/badge/Scrum-Product%20Owner-red?style=for-the-badge&logo=scrumalliance&logoColor=white)
