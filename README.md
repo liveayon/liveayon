@@ -1,4 +1,7 @@
 # Hi there, I'm Khan 👋
+
+<img width="300" height="300" alt="sa-cspo-300" src="https://github.com/user-attachments/assets/78ada070-52f6-4b2b-a291-fdb576ab4738" />
+
 ![Scrum Certified Product Owner](https://img.shields.io/badge/Scrum-Product%20Owner-red?style=for-the-badge&logo=scrumalliance&logoColor=white) ![Airtable Certified](https://img.shields.io/badge/Airtable-Certified-blue?style=for-the-badge&logo=airtable&logoColor=white) ![Softr Certified](https://img.shields.io/badge/Softr-Certified-yellow?style=for-the-badge&logo=softr&logoColor=white) ![Make.com Certified](https://img.shields.io/badge/Make.com-Certified-purple?style=for-the-badge&logo=make&logoColor=white)
 
 I’m a passionate developer from Bangladesh who loves building web scrapers and automation tools. You can often find me tinkering with Apify actors and exploring new ways to extract structured data from the web.  
